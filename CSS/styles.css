@@ -194,11 +194,13 @@ p {
 .fund-section div {
     width: 30%;
     border: 1px solid #D9D9D9;
+    border-radius: 15px;
 
 }
 
 .fund-section img {
     width: 100%;
+
 }
 
 .fund-section h3 {
@@ -226,7 +228,7 @@ p {
     padding-left: 5%;
     padding-bottom: 5%;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 24px;
 }
 
